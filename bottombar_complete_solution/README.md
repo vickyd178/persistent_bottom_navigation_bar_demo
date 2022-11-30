@@ -2,13 +2,14 @@
 
 A new Flutter project.
 
-# Splash Screen
+## Splash Screen
 to create splashscreen data use : flutter pub run flutter_native_splash:create --path=D:\AndroidStudioProjects\BottomCompleteSolution\bottombar_co
 mplete_solution\flutter_native_splash.yaml
 
-#Replace with your path
-D:\AndroidStudioProjects\BottomCompleteSolution\bottombar_co
-mplete_solution\flutter_native_splash.yaml
+##Replace following with your path
+
+"D:\AndroidStudioProjects\BottomCompleteSolution\bottombar_co
+mplete_solution\flutter_native_splash.yaml"
 
 
 ## Getting Started
