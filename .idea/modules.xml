@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bottombar_complete_solution/bottombar_complete_solution.iml" filepath="$PROJECT_DIR$/bottombar_complete_solution/bottombar_complete_solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottombar_complete_solution/android/bottombar_complete_solution_android.iml" filepath="$PROJECT_DIR$/bottombar_complete_solution/android/bottombar_complete_solution_android.iml" />
+    </modules>
+  </component>
+</project>
