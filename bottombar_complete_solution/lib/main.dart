@@ -10,10 +10,11 @@ void main() {
   //add these lines to main method.
   WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
   FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
+  initialization();
 
 }
 void initialization() async {
-  await Future.delayed(const Duration(seconds: 10));
+  await Future.delayed(const Duration(seconds: 2));
   FlutterNativeSplash.remove();
 }
 class MyApp extends StatelessWidget {
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    initialization();
+    // initialization();
     return GetMaterialApp(
       title: 'Bottom app bar demo',
       home: ProvidedStylesExample(
